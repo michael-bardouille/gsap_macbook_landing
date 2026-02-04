@@ -59,6 +59,14 @@ body {
   font-family: var(--font-semibold);
 }
 
+main {
+  padding-top: 3.5rem;
+}
+
+#Hero {
+  text-align: center;
+}
+
 @utility flex-center {
   @apply flex items-center justify-center;
 }
